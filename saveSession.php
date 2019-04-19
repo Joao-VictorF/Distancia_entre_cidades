@@ -6,6 +6,9 @@
 		<link href="css/index.css" rel="stylesheet">  
 		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 		<link rel="shortcut icon" href="img/map.png" />
+		<meta name="theme-color" content="#64B5F6">
+		<meta name="apple-mobile-web-app-status-bar-style" content="#64B5F6">
+		<meta name="msapplication-navbutton-color" content="#64B5F6">
 	</head>
 	<body>
 		<?php
@@ -17,7 +20,7 @@
 			$km = array("0", "165", "308", "375", "475", "510");
 			$url = array('img/fortaleza.jpg', 'img/russas.jpg', 'img/jaguaribe.jpg', 'img/ico.jpg', 'img/milagres.jpg', 'img/brejo.jpg');
 			$descrição = array(
-				'Está localizada no litoral Atlântico, a uma altitude média de dezesseis metros, com 34 km de praias. Fortaleza possui 313,140 km² de área e 2 643 247 habitantes estimados em 2018, além da maior densidade demográfica entre as capitais do país, com 8 390,76 hab/km². É a maior cidade do Ceará em população e a quinta do Brasil. A Região Metropolitana de Fortaleza é a sexta mais populosa do Brasil e a primeira do Norte e Nordeste, com 4 051 744 habitantes em 2017. É a cidade nordestina com a maior área de influência regional e possui a terceira maior rede urbana do Brasil em população, atrás apenas de São Paulo e do Rio de Janeiro.',
+				'Está localizada no litoral Atlântico, a uma altitude média de dezesseis metros, com 34 km de praias. Fortaleza possui 313,140 km² de área e 2 643 247 habitantes estimados em 2018, além da maior densidade demográfica entre as capitais do país, com 8 390,76 hab/km². É a maior cidade do Ceará em população e a quinta do Brasil.',
 				'Russas é um município brasileiro do estado do Ceará. Está localizado na mesorregião do Jaguaribe, na microrregião do Baixo Jaguaribe. É conhecida como a "Terra da Laranja", "Terra de Dom Lino" e "Capital do Vale".',
 				'Jaguaribe é um município brasileiro do estado do Ceará. Sua população estimada, de acordo com estudo de estimativa populacional realizado pelo IBGE, em 2014, era de 34.621 habitantes. A sua área territorial é de 1877 km², o que corresponde a uma densidade de 18,4 hab/km². Cerca de 55% dos munícipes se localizam na área urbana da sede do município, o que indica que a cidade possui cerca de 19.041 habitantes. Jaguaribe é o 53º município mais populoso do Estado do Ceará.',
 				'Icó é um município brasileiro do estado do Ceará. A cidade de Icó foi a terceira vila instalada no Ceará e possui um sítio arquitetônico datado do século XVIII.',
